@@ -18,7 +18,7 @@ The Neural Networks included are given below.
 <p align="center">
 <img src="https://github.com/crypto-code/Math-of-Neural-Networks/blob/master/assets/rnn_model.png" height="300" align="middle" />   </p>
 
-## **4. [Gated Recurrent Units](https://github.com/crypto-code/Math-of-Neural-Networks/blob/master/1.%20Multi-Layer%20Perceptron.ipynb)**
+## **4. [Gated Recurrent Units](https://github.com/crypto-code/Math-of-Neural-Networks/blob/master/4.%20Gated%20Recurrent%20Units.ipynb)**
 <p align="center">
 <img src="https://github.com/crypto-code/Math-of-Neural-Networks/blob/master/assets/gru_model.png" height="300" align="middle" />   </p>
 
